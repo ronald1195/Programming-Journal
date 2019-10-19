@@ -23,8 +23,8 @@ no previous experience in programming and has no idea where to start.
 #----------------------------------------------------------------->
 # Installations
 Step 1
-* Visit python.org
-* Visit the installations page: https://www.python.org/downloads/release/python-380/ Download: macOS 64-bit installer
+-[] Visit python.org
+-[] Visit the [installations page] https://www.python.org/downloads/release/python-380/  and Download: macOS 64-bit installer
 
 
 #---------------------------------------------------------------  	
