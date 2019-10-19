@@ -24,7 +24,7 @@ Description: 	This is a personal tutorial documentation on how
 # Installations
 Step 1
 [ ] Visit python.org
-[ ] Visit the [installations page] (https://www.python.org/downloads/release/python-380/)  and Download: macOS 64-bit installer
+[ ] Visit the [installations page] and Download: macOS 64-bit installer
 
 
 #---------------------------------------------------------------  	
@@ -37,3 +37,6 @@ Step 1
 # Save the file and run it
 # You run a python file typing: 'python file_name'
 
+
+
+[installations page]: https://www.python.org/downloads/release/python-380/
