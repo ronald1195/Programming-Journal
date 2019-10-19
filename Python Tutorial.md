@@ -13,7 +13,7 @@ Description: 	This is a personal tutorial documentation on how
 ------------------------------------------------------------------->
 
 <!-------- Just a small description at the top of my file --------->
-'''dif
+'''diff
 # This is a small tutorial I put together for whomever wants to get started with Python and has no previous experience.
 '''
 
