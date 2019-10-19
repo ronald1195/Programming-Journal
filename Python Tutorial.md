@@ -20,7 +20,7 @@ Description: 	This is a personal tutorial documentation on how to get started wi
 # Installations : I'm using a mac
 ------------------------------------------------------------------------------------------------->
 # Installations
-Verify if you have the software installed in your machine
+Verify if you already have Python installed in your machine. ( MacBooks should )
 * Open your terminal and type: 'python --version'. This should print something like: 'Python 2.7.13'
 
 Macs come with a default version of Python so you might not even need to worry about this section
