@@ -76,6 +76,7 @@ I will be using vim for many of the simple file editing here but feel free to us
 
 Great job. That is all you need to know about creating a python file and how to run it in your system.
 
+### String manipulation
 
 
 <!-------------------------------------------- Links ------------------------------------------>
