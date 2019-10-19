@@ -34,12 +34,34 @@ If you really want to install a different version of python you can follow the f
 # How to run a simple python program
 ------------------------------------------------------------------------------------------------->
 # How to run a simple python program
-# Creating a new python file
-vi helloWorld.py
-# Edit the contents of the file to print "Hello World!"
-# 	print "Hello World!"
-# Save the file and run it
-# You run a python file typing: 'python file_name'
+### Creating a new python file
+
+I will be using vim for many of the simple file editing here but feel free to use any text editor you want.
+
+```diff
+# Open your terminal and type
+   
+   vi helloWorld.py
+   
+# This will open a new file called (helloWorld.py) using vi (or vim) directly in the terminal.
+# Type 'i' to enter into insert-mode in vi and type the following line
+
+print "Hello World!"
+
+# Save your file. You can do thi sin vi clicking on the [esc] key and then type ':wq' to write 
+# and quit editing this file. Note that typing just :w writes or saves the file and :q will quit
+# it. This is not a vi tutorial so for further informatino about how to use this powerful editor 
+# visit their website .. or google stuff.
+
+# Now we need to run this file!
+# In the terminal go to the directory where your python file was saved. Type:
+
+python helloWorld.py
+
+# This will run your python file and will print "Hello World!" into the terminal window!
+```
+
+Great job. That is all you need to know about creating a python file and how to run it in your system.
 
 
 
