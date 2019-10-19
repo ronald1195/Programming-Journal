@@ -21,7 +21,7 @@ Description: 	This is a personal tutorial documentation on how to get started wi
 ------------------------------------------------------------------------------------------------->
 # Installations
 Verify if you have the software installed in your machine
-* Open your terminal and type: 'python --version'. This should print 
+* Open your terminal and type: 'python --version'. This should print something like: 'Python 2.7.13'
 
 Macs come with a default version of Python so you might not even need to worry about this section
 If you really want to install a different version of python you can follow the following steps.
