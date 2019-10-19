@@ -46,7 +46,7 @@ I will be using vim for many of the simple file editing here but feel free to us
 # This will open a new file called (helloWorld.py) using vi (or vim) directly in the terminal.
 # Type 'i' to enter into insert-mode in vi and type the following line
 
-print "Hello World!"
+  print "Hello World!"
 
 # Save your file. You can do thi sin vi clicking on the [esc] key and then type ':wq' to write 
 # and quit editing this file. Note that typing just :w writes or saves the file and :q will quit
@@ -56,18 +56,18 @@ print "Hello World!"
 # Now we need to run this file!
 # In the terminal go to the directory where your python file was saved. Type:
 
-python helloWorld.py
+  python helloWorld.py
 
 # This will run your python file and will print "Hello World!" into the terminal window!
 # Just as a stretch, try now to create a file with the following code in it.
 
-print '\n\t\tHello there!'
-print '\t\tWhat is yout name?\n'
+  print '\n\t\tHello there!'
+  print '\t\tWhat is yout name?\n'
 
-inputValue = raw_input("\tInsert your name here: ")
+  inputValue = raw_input("\tInsert your name here: ")
 
 
-print "\n\t\tHello " + inputValue + "!\n\t\tWELCOME TO PYTHON\n"
+  print "\n\t\tHello " + inputValue + "!\n\t\tWELCOME TO PYTHON\n"
 
 # From this point on please notice that the version of Python I'm running is 2.7.13. Some of the sintax
 # for newer versions found in the internet might not compile in your system if you run this same version
