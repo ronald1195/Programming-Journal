@@ -12,10 +12,14 @@ Description: 	This is a personal tutorial documentation on how
               Don't be a jerk! 
 ------------------------------------------------------------------->
 
+<!-------- Just a small description at the top of my file --------->
+This is a small tutorial I put together for whomever wants to get started with Python and has no previous experience.
+
 
 <!-----------------------------------------------------------------  
 # Installations : I'm using a mac
-#------------------------------------------------------------------>  	
+#----------------------------------------------------------------->
+# Installations
 # Step 1
 # 	Visit python.org
 #       Visit the installations page: https://www.python.org/downloads/release/python-380/
