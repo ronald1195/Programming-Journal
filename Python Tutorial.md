@@ -1,4 +1,4 @@
-<!---
+<!------------------------------------------------------------------
 Author: Ronald Munoz
 Description: 	This is a personal tutorial documentation on how 
               to get started with Python. This documentation
@@ -10,12 +10,12 @@ Description: 	This is a personal tutorial documentation on how
               some bugs and problems with this documentation
               but please remember, we are learning together.
               Don't be a jerk! 
---->
+------------------------------------------------------------------->
 
 
-<!---------------------------------------------------------------  
+<!-----------------------------------------------------------------  
 # Installations : I'm using a mac
-#---------------------------------------------------------------  	
+#------------------------------------------------------------------>  	
 # Step 1
 # 	Visit python.org
 #       Visit the installations page: https://www.python.org/downloads/release/python-380/
