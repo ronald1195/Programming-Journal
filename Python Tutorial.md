@@ -23,8 +23,8 @@ Description: 	This is a personal tutorial documentation on how
 #----------------------------------------------------------------->
 # Installations
 Step 1
-[ ] Visit python.org
-[ ] Visit the [installations page] and Download: macOS 64-bit installer
+- [ ] Visit python.org
+- [ ] Visit the [installations page] and Download: macOS 64-bit installer
 
 
 #---------------------------------------------------------------  	
