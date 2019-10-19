@@ -59,6 +59,19 @@ print "Hello World!"
 python helloWorld.py
 
 # This will run your python file and will print "Hello World!" into the terminal window!
+# Just as a stretch, try now to create a file with the following code in it.
+
+print '\n\t\tHello there!'
+print '\t\tWhat is yout name?\n'
+
+inputValue = raw_input("\tInsert your name here: ")
+
+
+print "\n\t\tHello " + inputValue + "!\n\t\tWELCOME TO PYTHON\n"
+
+# From this point on please notice that the version of Python I'm running is 2.7.13. Some of the sintax
+# for newer versions found in the internet might not compile in your system if you run this same version
+# of python.
 ```
 
 Great job. That is all you need to know about creating a python file and how to run it in your system.
