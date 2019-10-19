@@ -15,7 +15,7 @@ Description: 	This is a personal tutorial documentation on how
 <!-------- Just a small description at the top of my file --------->
 ```diff
 # This is a small tutorial I put together for whomever wants to get started with Python and has 
-no previous experience in programming and has no idea where to start.
+# no previous experience in programming and has no idea where to start.
 ```
 
 <!-----------------------------------------------------------------  
@@ -23,8 +23,8 @@ no previous experience in programming and has no idea where to start.
 #----------------------------------------------------------------->
 # Installations
 Step 1
-- [] Visit python.org
-- [] Visit the [installations page] (https://www.python.org/downloads/release/python-380/)  and Download: macOS 64-bit installer
+[ ] Visit python.org
+[ ] Visit the [installations page] (https://www.python.org/downloads/release/python-380/)  and Download: macOS 64-bit installer
 
 
 #---------------------------------------------------------------  	
