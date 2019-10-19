@@ -1,16 +1,16 @@
-#---------------------------------------------------------------
-# Author: Ronald Munoz
-# Description: 	This is a personal tutorial documentation on how 
-#		to get started with Python. This documentation
-#		will walk you throught installations to simple
-#		programs you can run in your own computer to 
-#		learn how to use Python. 
-#
-#		I'm learning Python with you and you might find
-#		some bugs and problems with this documentation
-#		but please remember, we are learning together.
-#		Don't be a jerk!
-#---------------------------------------------------------------  
+<!--- 
+Author: Ronald Munoz
+Description: 	This is a personal tutorial documentation on how 
+              to get started with Python. This documentation
+              will walk you throught installations to simple
+              programs you can run in your own computer to 
+              learn how to use Python. 
+
+              I'm learning Python with you and you might find
+              some bugs and problems with this documentation
+              but please remember, we are learning together.
+              Don't be a jerk! 
+--->
 
 
 #---------------------------------------------------------------  
