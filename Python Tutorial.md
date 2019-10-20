@@ -135,7 +135,7 @@ roommates = ["JD", "Scott", "Matt", "Cooper"]
 # Loop throught the array and check if "JD" is the value of the current iteration
 for x in roommates:
 	if x == "JD":
-		print(x)
+	  print(x)
 	else:
 	  print("not JD")
 
@@ -174,6 +174,21 @@ IndentationError: expected an indented block
 
 ```
 
+## Identifiers
+
+To be able to write Python, you need to understand some of the other components of this programming language, like identifiers. A Python identifier is a name used to identify:
+
+**1. Variables**
+**2. Functions**
+**3. Classes**
+**4. Modules**
+**5. Other objects**
+
+In this tutorial, I will explain in detail what each of these identifiers is, but for now it is sufficient to know about their existence. I will help you to learn how to diferentiate them and more important, how to use them.
+
+Let's start learning about some of them, cause.. why not?
+
+## Variables
 
 
 <!----------------------------------------------------------------------------------------------------------------------------  
