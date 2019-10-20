@@ -81,7 +81,6 @@ Great job. That is all you need to know about creating a python file and how to 
 ---------------------------------------------------------------------------------------------------------------------------->
 # Learn the Python Syntax
 ## Comments
-
 Something very important is every programming language is that you need to understand comments. Comments are one of the most basic concept of any programming languages. The compiler will ignore document comments and wont excecute anything that is recognized as a comment but they help make your code more readable and therefore, easier to maintain.
 
 In any programming language there are two kind of comments.
@@ -107,7 +106,6 @@ Everything between the " """ " is going to be a comment
 
 ```
 ## Keywords
-
 In Python, like in any other programming language there are some *keywords* that are reserved for the language only. Trying to use this keywords in a way the interpreter is not expecting it will result in errors.
 
 ```python
@@ -125,6 +123,59 @@ In Python, like in any other programming language there are some *keywords* that
 'pass', 'print', 'raise', 'return', 'try', 'while', 'with', 'yield']
 
 ```
+
+## Indentation
+Indentation is rigidly enforced in Python. Indentation in other programming languages serves purely an organizational purpose. In Python indentation serves a hierarchy purpose and is vital that you understand how indentation works in this programming language before you attempt to write code.
+
+```python
+
+# Let's declare an array of people for this example
+roommates = ["JD", "Scott", "Matt", "Cooper"]
+
+# Loop throught the array and check if "JD" is the value of the current iteration
+for x in roommates:
+	if x == "JD":
+		print(x)
+	else:
+	  print("not JD")
+
+''' 
+# Notice that if you change the indentation to 
+
+roommates = ["JD", "Scott", "Matt", "Cooper"]
+
+for x in roommates:
+	if x == "JD":
+	print(x)
+	else:
+	print("not JD")
+
+# You will get a compilation error that will say
+
+  File "syntax.py", line 15
+    print(x)
+        ^
+IndentationError: expected an indented block
+
+# If you add the required indentation to your code you will still get an error
+# in which you will be told that the next print statement needs to be indented
+# Notice that Python will only show you the top most error every single time you
+# run the compiler. This is important to understand and you should take advantage
+# of this learning oportunity and start developing the habit of contantly compile
+# your code. This will help you catch errors in an earlier stage and will help
+# you debug your code easily.
+
+  File "syntax.py", line 17
+    print("not JD")
+        ^
+IndentationError: expected an indented block
+
+'''
+
+```
+
+
+
 <!----------------------------------------------------------------------------------------------------------------------------  
 # Let's learn some cool stuff about Python datatypes
 ---------------------------------------------------------------------------------------------------------------------------->
