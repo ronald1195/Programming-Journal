@@ -5,7 +5,10 @@
 # 		for you to understand what you are trying to tell the computer to do.
 # ------------------------------------------------------------------------------------
 
+
+# ------------------------------------------------------------------------------------
 # The importance of indentation
+# ------------------------------------------------------------------------------------
 
 # Let's declare an array of people for this example
 roommates = ["JD", "Scott", "Matt", "Cooper"]
@@ -49,3 +52,7 @@ IndentationError: expected an indented block
 IndentationError: expected an indented block
 
 '''
+
+# ------------------------------------------------------------------------------------
+# Understanding variables and datatypes
+# ------------------------------------------------------------------------------------
