@@ -36,7 +36,9 @@ If you really want to install a different version of python you can follow the f
 # How to run a simple python program
 ### Creating a new python file
 
-I will be using vim for many of the simple file editing here but feel free to use any text editor you want.
+I will be using vim for many of the simple file editing here but feel free to use any text editor you want. If you need help to understand how to use the terminal see more about [terminal commands] here.
+
+# more about how to use the terminal efficiently
 
 ```python
 # Open your terminal and type
@@ -51,10 +53,16 @@ I will be using vim for many of the simple file editing here but feel free to us
 # Save your file. You can do thi sin vi clicking on the [esc] key and then type ':wq' to write 
 # and quit editing this file. Note that typing just :w writes or saves the file and :q will quit
 # it. This is not a vi tutorial so for further informatino about how to use this powerful editor 
-# visit their website .. or google stuff.
+# visit their website .. or google stuff. 
 
 # Now we need to run this file!
-# In the terminal go to the directory where your python file was saved. Type:
+# In the terminal go to the directory where your python file was saved. ( In the terminal you 
+# can do this by typing: 'cd your/directory/path'. CD stands for change directory and then you 
+# can insert the directory (folder) path. If you dont know the complete path you can type 'ls' to
+# list all the accessible folders in the current direcotory. From there do 'cd [directory]' until
+# find where you saved your file. 
+
+# Once you are in the folder where you saved your file in, type:
 
   python helloWorld.py
 
@@ -200,3 +208,4 @@ Let's start learning about some of them, cause.. why not?
 
 <!-------------------------------------------- Links ------------------------------------------>
 [installations page]: https://www.python.org/downloads/release/python-380/
+[terminal commands]: https://github.com/0nn0/terminal-mac-cheatsheet
