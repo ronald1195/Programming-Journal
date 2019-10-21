@@ -60,7 +60,7 @@ I will be using vim for many of the simple file editing here but feel free to us
 # can do this by typing: 'cd your/directory/path'. CD stands for change directory and then you 
 # can insert the directory (folder) path. If you dont know the complete path you can type 'ls' to
 # list all the accessible folders in the current direcotory. From there do 'cd [directory]' until
-# find where you saved your file. 
+# find where you saved your file ). 
 
 # Once you are in the folder where you saved your file in, type:
 
